@@ -73,7 +73,7 @@ public class Player extends ListActivity
 	public enum Slides
 	{
 		SETTINGS,
-		PLAYLIST,
+		PLAYLIST, //Still I see no changes
 		NOW_PLAYING
 	}
 
